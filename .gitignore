@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+# My rules
+.DS_Store
+/unity2d/intro_setup
+/unity2d/number_wizard
+/unity2d/number_wizard_ui
+/unity2d/text101
